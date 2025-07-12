@@ -7,3 +7,8 @@ environment_data.csv
 irradiance_data.csv
 __pycache__
 catboost_info
+predicciones_prophet_integrado.csv
+anomalias_detectadas_INTEGRADO.csv
+reporte_integrado.json
+RESUMEN_EJECUCION.txt
+resultados_ml_integrado.csv
