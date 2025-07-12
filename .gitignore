@@ -1,0 +1,9 @@
+anomalias_detectadas_planta_solar.csv
+anomaly_report.csv
+chunk_electrical_data.csv
+electrical_data.csv
+enhanced_anomaly_report.csv
+environment_data.csv
+irradiance_data.csv
+__pycache__
+catboost_info
